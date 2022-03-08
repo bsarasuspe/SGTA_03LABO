@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="sgta2022-probaConnectionString-Web.config Connection String" description="sgta2022-probaConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=sgta-proba2022.database.windows.net;Initial Catalog=sgta2022-proba;User ID=sgta-proba2022;Password=Bsarasua18#" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\bsara\\Desktop\\Unibertsitatea\\3\.\ Maila\\SGTA\\03_Labo_Berria\\ErabiltzaileErregistratuak\\ErabiltzaileErregistratuak\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='sgta2022-probaConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
